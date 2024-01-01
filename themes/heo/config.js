@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-01-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.behance.net/jeronli/appreciated',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/项目经历' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/个人练习' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用分享' },
+  HEO_HERO_CATEGORY_1: { title: '项目经历', url: '/tag/项目经历' },
+  HEO_HERO_CATEGORY_2: { title: '个人练习', url: '/tag/个人练习' },
+  HEO_HERO_CATEGORY_3: { title: '实用分享', url: '/tag/实用分享' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -37,7 +37,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://www.behance.net/jeronli/appreciated', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -103,7 +103,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流学习',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加我微信',
-  HEO_SOCIAL_CARD_URL: 'https://eturl.cn/UTiTvd',
+  HEO_SOCIAL_CARD_URL: 'https://eturl.cn/UTiTvd',//微信二维码分享
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
