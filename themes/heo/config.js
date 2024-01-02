@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'jeron.life' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.behance.net/jeronli/appreciated' }
+    { title: '李李李李李李李李李李', url: 'https://www.behance.net/jeronli/appreciated' }
   ],
 
   // 英雄区(首页顶部大卡)
